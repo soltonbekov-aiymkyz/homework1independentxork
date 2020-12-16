@@ -129,4 +129,27 @@ button{
     border-radius: .3rem;
     margin-bottom:1rem;
 }
-  
+.footer{
+    margin-top:auto;
+    text-align: center;
+    max-width: 620px;
+    height: 100%;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+
+}
+footer{
+    text-align: center;
+    color: gray;
+    margin-top:60px;
+}
+footer p{
+    color: gray;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    text-decoration: 1px white underline ;
+}
