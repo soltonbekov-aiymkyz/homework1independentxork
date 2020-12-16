@@ -29,6 +29,7 @@ h3{
     font-size: 28px;
     margin-top: 10px;
     line-height: 36.6px;
+    color: white;
 }
 
 ul{
@@ -76,5 +77,23 @@ h1{
     margin: 0;
     padding: 1px;
     margin-right: 16px;
+}
 
+nav ul li{
+    display: inlne;
+    padding: 0;
+
+}
+.di{
+    border-bottom-color:  gray;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.di:hover{
+    text-decoration:underline;
+    text-decoration: none;
+    border-bottom: 5px solid gray;
+}
+.id:hover{
+    border-bottom: 5px solid gray;
 }
