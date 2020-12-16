@@ -1,0 +1,9 @@
+*{box-sizing: border-box;}
+body{
+    /*margin:0;*/
+    padding: 0;
+    background-color:  #212529;
+    height: 100%;
+    text-align: center;
+    text-shadow:  0 1px 3px rgb(0, 0, .5);
+}
