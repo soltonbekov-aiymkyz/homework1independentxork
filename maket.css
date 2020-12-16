@@ -107,7 +107,6 @@ header h1{
     font-size: 40px;
     font-family: sans-serif;
 }
-
 header{
     margin: 10% 25%;
     margin-top: 150px;
@@ -115,3 +114,19 @@ header{
     max-width: 620px;
     display: inline-block;
 }
+button{
+    background-color: white;
+    color: black;
+    border-color:  white;
+    font-weight: 700;
+    text-align: center;
+    padding: .5rem 1rem;
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+    margin-bottom:1rem;
+}
+  
