@@ -59,6 +59,13 @@ p{
     font-family:  var(--bs-font-sans-serif); 
     font-weight: 400;
 }
+
+h1{
+    color: white;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: var(--bs-font-sans-serif);;
+}
 .home{
     display: block;
     color: white;
