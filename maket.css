@@ -169,3 +169,19 @@ footer a{
            
       }
   }
+  
+@media(max-width:500px){
+    nav{
+          display: flex;
+          flex-direction: column;                                        
+      }
+      ul{
+          margin-left: -8%;
+      }
+      div{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+           
+      }
+  }
