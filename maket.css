@@ -89,11 +89,29 @@ nav ul li{
     text-decoration: none;
     margin-right: 10px;
 }
-.di:hover{
+a:hover{
     text-decoration:underline;
     text-decoration: none;
     border-bottom: 5px solid gray;
 }
 .id:hover{
     border-bottom: 5px solid gray;
+}
+header p{
+    font-weight: 300;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+header h1{
+    font-weight: 400;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+header{
+    margin: 10% 25%;
+    margin-top: 150px;
+    text-align: center;
+    max-width: 620px;
+    display: inline-block;
 }
