@@ -23,3 +23,34 @@ div{
     font-weight: 400;
     line-height: 36.6px;
 }
+ 
+h3{
+    float: left;
+    font-size: 28px;
+    margin-top: 10px;
+    line-height: 36.6px;
+}
+/*
+ul{
+    margin-left: 55%;
+    display: flex;
+    margin-right: 16px;
+    font-weight: 700;
+    line-height: 36.6px;
+}
+li{
+    text-decoration: none;
+    list-style-type:none ;
+    padding-left:0;
+    padding: 1px;
+    margin-left: 5px;
+
+}
+
+a{
+    color: rgba(255, 255, 255, .5);;
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+*/
